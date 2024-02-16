@@ -1,3 +1,1 @@
-# labAssignment_5
-
-Build: gcc lab_assignment_5.c
+3047d9cd8fea88ceeb8b7e64a22fa542242a6b5b
